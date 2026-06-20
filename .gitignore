@@ -1,0 +1,9 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore all dataset images (they are too large for GitHub)
+data/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
