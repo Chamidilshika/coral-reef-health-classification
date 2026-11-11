@@ -1,9 +1,36 @@
-# Ignore the virtual environment
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
 venv/
+.venv/
+env/
 
-# Ignore all dataset images (they are too large for GitHub)
+# Dataset images
+dataset/
 data/
+*.jpg
+*.jpeg
+*.png
+*.webp
 
-# Ignore OS-specific files
-.DS_Store
-Thumbs.db
+# Model files
+*.pth
+*.pt
+*.h5
+*.onnx
+
+# Training outputs
+runs/
+outputs/
+checkpoints/
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
