@@ -1,4 +1,3 @@
-
 from torchvision import transforms
 
 # Common ImageNet normalization for pretrained weights.
