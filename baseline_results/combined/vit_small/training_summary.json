@@ -1,0 +1,10 @@
+{
+    "dataset": "combined",
+    "model": "vit_small",
+    "stage1_best_f1": 0.8095238095238095,
+    "stage1_best_epoch": 11,
+    "stage2_best_f1": 0.7999999999999999,
+    "stage2_best_epoch": 5,
+    "selected_stage": "stage1_frozen",
+    "selected_validation_f1": 0.8095238095238095
+}

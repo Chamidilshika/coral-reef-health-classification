@@ -1,0 +1,10 @@
+{
+    "dataset": "combined",
+    "model": "resnet50",
+    "stage1_best_f1": 0.8064516129032259,
+    "stage1_best_epoch": 4,
+    "stage2_best_f1": 0.8351648351648352,
+    "stage2_best_epoch": 3,
+    "selected_stage": "stage2_finetuned",
+    "selected_validation_f1": 0.8351648351648352
+}

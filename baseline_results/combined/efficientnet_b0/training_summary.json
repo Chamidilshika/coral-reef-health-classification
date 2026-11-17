@@ -1,0 +1,10 @@
+{
+    "dataset": "combined",
+    "model": "efficientnet_b0",
+    "stage1_best_f1": 0.7472527472527473,
+    "stage1_best_epoch": 2,
+    "stage2_best_f1": 0.8342245989304812,
+    "stage2_best_epoch": 13,
+    "selected_stage": "stage2_finetuned",
+    "selected_validation_f1": 0.8342245989304812
+}

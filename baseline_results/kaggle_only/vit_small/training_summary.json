@@ -1,0 +1,10 @@
+{
+    "dataset": "kaggle_only",
+    "model": "vit_small",
+    "stage1_best_f1": 0.8299319727891157,
+    "stage1_best_epoch": 8,
+    "stage2_best_f1": 0.8226950354609929,
+    "stage2_best_epoch": 1,
+    "selected_stage": "stage1_frozen",
+    "selected_validation_f1": 0.8299319727891157
+}
