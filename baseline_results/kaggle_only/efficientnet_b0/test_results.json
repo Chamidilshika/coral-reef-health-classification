@@ -1,0 +1,17 @@
+{
+    "accuracy": 0.7883211678832117,
+    "bleached_precision": 0.8055555555555556,
+    "bleached_recall": 0.7945205479452054,
+    "bleached_f1": 0.8,
+    "confusion_matrix": [
+        [
+            58,
+            15
+        ],
+        [
+            14,
+            50
+        ]
+    ],
+    "bleached_roc_auc": 0.8585188356164384
+}

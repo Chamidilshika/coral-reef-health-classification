@@ -1,0 +1,10 @@
+{
+    "dataset": "kaggle_only",
+    "model": "resnet50",
+    "stage1_best_f1": 0.8767123287671232,
+    "stage1_best_epoch": 14,
+    "stage2_best_f1": 0.8529411764705882,
+    "stage2_best_epoch": 1,
+    "selected_stage": "stage1_frozen",
+    "selected_validation_f1": 0.8767123287671232
+}

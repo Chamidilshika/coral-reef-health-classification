@@ -1,0 +1,10 @@
+{
+    "dataset": "self_collected_only",
+    "model": "resnet50",
+    "stage1_best_f1": 0.7906976744186046,
+    "stage1_best_epoch": 13,
+    "stage2_best_f1": 0.8695652173913043,
+    "stage2_best_epoch": 2,
+    "selected_stage": "stage2_finetuned",
+    "selected_validation_f1": 0.8695652173913043
+}
